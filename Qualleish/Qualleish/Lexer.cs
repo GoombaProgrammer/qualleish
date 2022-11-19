@@ -148,6 +148,8 @@
             ["which"] = ("leore", "default"),
             ["can"] = ("kan", "default"),
             ["idiot"] = ("idyota", "default"),
+            ["king"] = ("kynge", "default"),
+            ["queen"] = ("cwen", "default"),
         };
     }
 }
