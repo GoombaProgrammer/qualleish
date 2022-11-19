@@ -147,6 +147,7 @@
             ["writing"] = ("greoe", "default"),
             ["which"] = ("leore", "default"),
             ["can"] = ("kan", "default"),
+            ["idiot"] = ("idyota", "default"),
         };
     }
 }
